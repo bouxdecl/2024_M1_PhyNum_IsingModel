@@ -1,1 +1,1 @@
-# 2024_M1_PhyNum__IsingModel
+# 2024_M1_PhyNum_Ising_Model
